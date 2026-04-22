@@ -191,6 +191,17 @@ a{
       overflow: hidden;
       align-items: center;
     }
+    .mtx2{
+      color: white;
+      border-radius: 3vh;
+      font-size: clamp(0.25rem,1vw + 1.5rem,1.5rem);
+      width: 90%;
+      height: 25vh;
+      display: flex;
+      justify-content: center;
+      overflow: hidden;
+      align-items: center;
+    }
     .mti{
       color: white;
       border-radius: 3vh;
